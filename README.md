@@ -21,7 +21,7 @@ git push
 vim new.json  
 i   
 {  
-        "name": "Nastya",  
+          "name": "Nastya",  
         "surname": "Vinogradova",  
         "age" : 25,  
         "pets" : 1,  
