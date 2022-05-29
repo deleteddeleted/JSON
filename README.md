@@ -6,6 +6,7 @@
 git clone https://github.com/deleteddeleted/JSON.git
 
  6. Внутри локального JSON создать файл “new.json”.  
+	cd JSON  
 touch new.json
 
  7. Добавить файл под гит.  
