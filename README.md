@@ -83,7 +83,7 @@ bug_report.json --> Edit this file
 {  
     "ID" : "1",  
     "Summary" : "Не работает кнопка отправки заказа",  
-    "Preconditions": "Зайти на сайт",
+    "Preconditions": "Зайти на сайт",  
     "Steps to Reproduce":{  
           "Step1":"<Пролистать до поля >",  
           "Step2":"<Ввести значение в поле>",  
